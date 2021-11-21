@@ -62,7 +62,6 @@ body {
   }
   
   #profile-link {
-    text-decoration: none;
     color: black;
     font-size: 1.2em;
   }
@@ -81,15 +80,14 @@ body {
   }
   
   .project-tile {
-    background: white;
-    padding: 2em;
+    background: lightblue;
+    padding: 3em;
   }
   
   .project-tile a {
-    text-decoration: none;
-    color: grey;
+    color: black;
     font-weight: bold;
-    font-size: 0.9em;
+    font-size: 1em;
   }
   
   .responsive {
