@@ -41,6 +41,8 @@ body {
   #projects {
     text-align: center;
     background: white;
+    width:100%;
+    display: inline-block ;
   }
   
   #profile {
@@ -80,18 +82,18 @@ body {
   }
   
   .project-tile {
-    background: lightblue;
-    padding: 3em;
+    background: white;
+    padding: 1em;
   }
   
   .project-tile a {
-    color: black;
+    color:black;
     font-weight: bold;
     font-size: 1em;
   }
   
   .responsive {
-    max-width: 300px;
+    max-width: 250px;
     height: 200px;
   }
   
